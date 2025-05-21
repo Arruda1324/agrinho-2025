@@ -15,7 +15,7 @@ Este site foi desenvolvido com o objetivo de evidenciar a interdependência e a 
 
 ## Instruções de Uso
 
-1. Clone ou faça o download deste repositório
+1. Clone ou faça o download deste repositório OU entre no link: https://arruda1324.github.io/agrinho-2025/
 2. Abra o arquivo `index.html` em qualquer navegador moderno para visualizar o site
 3. Navegue pelas diferentes seções utilizando o menu de navegação ou rolando a página
 4. Explore os recursos de acessibilidade:
@@ -28,7 +28,6 @@ Este site foi desenvolvido com o objetivo de evidenciar a interdependência e a 
 
 - **HTML5**: Marcação semântica para estruturação adequada do conteúdo
 - **CSS3**: Estilização avançada com flexbox, grid e media queries para responsividade
-- **JavaScript**: Interatividade para o menu mobile, recursos de acessibilidade e rolagem suave
 - **Font Awesome**: Ícones utilizados no site
 - **Google Fonts**: Fontes Montserrat e Open Sans (carregadas através do CSS)
 
@@ -62,4 +61,4 @@ A conexão entre campo e cidade é fundamental para o desenvolvimento sustentáv
 
 ---
 
-© 2023 Conexão Campo-Cidade | Tag: Agrinho
+© 2025 Conexão Campo-Cidade | Tag: Agrinho
